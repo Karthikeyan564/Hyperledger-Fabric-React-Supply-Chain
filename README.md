@@ -14,7 +14,7 @@ Since the blockchain is a transparent, immutable, and secure decentralized syste
 
 * Farm to fork tracking
 * Diamond tracking
-* High priced goods such as Leather goods , watches , dresses etc.
+* High priced goods such as Leather goods, watches, dresses etc.
 
 ## Components Developed :
 	
