@@ -1,5 +1,9 @@
 # HyperLedger Fabric - React Supply Chain Management :
 
+Author: Karthikeyan Renga Rajan 
+
+Made during Techstars Startup Weekend Chennai 2021 - First Price. Please feel free to read, modify and commercialize the project. The project is under Apache 2.0 License.
+
 ## Objective :
 
 In the traditional supply chain models, the information about an entity is not fully transparent to others, which leads to inaccurate reports and a lack of interoperability. Emails and printed documents provide certain information, but still can’t contain fully detailed visibility and traceability information since the products across the entire supply chain are hard to trace. It is almost impossible for the consumer to know the true value of the product they purchased.
